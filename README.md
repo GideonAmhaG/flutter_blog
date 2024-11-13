@@ -54,6 +54,10 @@ Contributions are welcome! Please follow these steps to contribute:
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
+## Authors
+
+Gideon Amha Gebremedhin - [Github](https://github.com/GideonAmhaG) | [X](https://x.com/GideonAmha)
+
 ## Acknowledgments
 
 - Thanks to the Flutter team for creating such an amazing framework.
